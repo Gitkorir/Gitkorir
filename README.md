@@ -57,10 +57,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitkorir&layout=compact&theme=radical)
 
 ## 🎯 Current Focus
-🔍 Deepening React & Redux knowledge
-🐍 Mastering Python backend with Django/Flask
-📊 Exploring data analysis with Pandas
-🚀 Building full-stack capstone projects
+ > 🔍 Deepening React & Redux knowledge
+ > 🐍 Mastering Python backend with Django/Flask
+ > 📊 Exploring data analysis with Pandas
+ > 🚀 Building full-stack capstone projects
 
 
 
@@ -70,10 +70,10 @@
  “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 🤝 I'm open to:
-Collaborating on meaningful web development projects
-Connecting with fellow developers and tech enthusiasts
-Internships or entry-level opportunities in full-stack development
+ > Collaborating on meaningful web development projects
+ > Connecting with fellow developers and tech enthusiasts
+ > Internships or entry-level opportunities in full-stack development
 
 
-
+  
 -->
