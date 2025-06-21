@@ -7,7 +7,7 @@
  ## 🌱 I’m currently learning 
   > Frontend: HTML | CSS | JavaScript | React
   > Backend: Node.js | SQLITE | SQLAlchemy | Flask
-  > Version Control : Git & GitHub
+  > Version Control: Git & GitHub
   >  VS code | Postman      
 
 
@@ -17,10 +17,15 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnoldkorir201@gmail.com)
 
       
-💻 Tech Stack:
-Markdown JavaScript Render React HTML5 Bootstrap NPM CSS3
+## 💻 Tech Stack
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
     
  ⚡ Fun fact: 
