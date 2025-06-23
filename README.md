@@ -46,7 +46,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitkorir&show_icons=true&theme=radical)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Gitkorir&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=gitkorir&theme=radical)
+
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitkorir&layout=compact&theme=radical)
